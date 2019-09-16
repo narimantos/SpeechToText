@@ -1,0 +1,602 @@
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:24:46.760905Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:24:28.164893Z"
+  },
+  "name": "2232149439362819683",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.93500847,
+            "transcript": "stageopdracht is dus de security patching in als het ware en dus eigenlijk Het analyse van een mens en afbakening van dat soort dingen dus wat ik daarvan ieder geval begrijpt op dit moment bij intermax drie vormen van security patch verkopen als het ware en dus eigenlijk als eerste mijn vraag is Nou zo ziet het er nu uit jouw wat voor wat wat vind jij daarvan moeten gaan halen beginnen en ja ik merk gewoon dat ik gewoon heel veel ellende eigenlijk uitkomt Persie niet niet goed loopt hij met de hand"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:25:51.587070Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:25:34.444254Z"
+  },
+  "name": "6259862146640815903",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.917977,
+            "transcript": "inregelen van de Passion voor een auto per stel hebben precies een rotzooi Ik heb meegemaakt Alle klanten na bellen wanneer wat ja ze zitten er zoveel mensen bij betrokken Ja heel de dag eigenlijk Volgens mij is het nu zelfs nog niet helemaal Je hebt daar nog een paar kleintjes die op die dag niet kon haar moet worden ze maar die moet worden dus het zal van die kleine Ok\u00e9 dus dan moet helemaal naar school dan hebben we dus dan drie manieren dat opnieuw schieten en vormen nog steeds een soort van hema.nl die manier gaat worden pakketten die kan krijgen op zich"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:26:58.249845Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:26:40.493678Z"
+  },
+  "name": "5956542017638927044",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9428805,
+            "transcript": "probleem is het is meer Zeg maar de eerste techniek te wachten die niet goed op orde is en ook zeg maar de processen die die er omheen hangen zeg maar de administratieve handelingen gewoon heel veel werk Maar ik denk dat we dit wel gewoon zo op tegen die kunnen aanbieden uiteraard moet het ook zo flexibel zijn dat we meerdere varianten kunnen aanbieden Points patching of die hebben we namelijk staan en dat dat we dan af Ja we hebben een soort van sterretjes in plaats van hoe Welke klanten zeg maar wilt Maar die scheiding die hebben we dan nog steeds wel denk ik van we gaan niet standaard verbod alle dit soort dingen upgraden dan moet ik kan wel voor gaan kiezen neem ik aan nu hebben volgens mij is dat je als professional afneemt dan krijg je het standaard geloof ik 23 ook"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:28:08.235675Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:27:46.574395Z"
+  },
+  "name": "4955018547505403159",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.954164,
+            "transcript": "Ja precies hetzelfde dan denk ik dat we moeten ook heel variabel worden want dit is zeg maar nasleep van orchestrator sscc En wat zei eigenlijk kunnen denk ik dan hoe wij die Ja wat we wat we doen eigenlijk afbeelding van onze producten gebruiken dus ze zitten waarschijnlijk niet op een andere manier denk ik dat ja dat denk ik ook inderdaad het is heel gelimiteerd Hoe niet kunnen doen Suus 20 keer per jaar is inderdaad 
+maar ze waren Volgens mij wordt hij niet echt naar gekeken van de professional Ok\u00e9 maar dan hoef je niet te betalen Ja ik denk dat het voor mij opdracht ook van belang is om uit te zoeken of die 20 keer per jaar van van 
+belang is of is dat meer een sales dingetje eigenlijk Jij kan uitzoeken voor"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:29:11.305236Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:28:53.784429Z"
+  },
+  "name": "2847702634647508714",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.92434424,
+            "transcript": "Waar komt er een gemiddelde zone out of ik denk dat het aantal niet zo relevant is ik denk niet meer dat het dat het mogelijk is om te doen ja ja ja precies nou een keer of 100 keer in een jaar moeten maakt niet uit als het maar werkt Ja tuurlijk ja dan moeten ze variabel ingevuld kunnen worden maar niet zo zijn dat ze zelf kiezen van de ene kant Ria kies een andere drie keer per jaar een andere 25 jaar zou kunnen denk 
+ik dan maar ok\u00e9 duidelijk zet ik in het automation gedachtegoed te denken hoe willen we zeg maar zo'n plotselinge pet zeg maar automatiseren Ja moet er komt altijd een"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:30:20.194509Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:30:00.019545Z"
+  },
+  "name": "2764316951375267359",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.94092464,
+            "transcript": "een personeelslid bij kijken denk ik dan zal het inderdaad gewoon actie nodig want het komt uit en wat je wil hebben is dat druk op de knop kan zeggen van Ik wil welke Windows systemen en baal hier 
+echt van Windows 2008 R2 druk op de knop al die systemen zien of in je systeem klaar hebben staan in Vianen boer Johan tussen jullie kunt versie ofzo En dan kan je een verschil maken met wat een nieuwe versie is denk ik over 
+die kan geven ze zelf kan dat gewoon een Windows 2008 potten met niet goed zijn zeg maar ja ok\u00e9 dat valt nogal te doen denk ik eigenlijk en dat moment heb je dus ja"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:31:27.669748Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:31:05.743030Z"
+  },
+  "name": "9117829031574700240",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.93374246,
+            "transcript": "vervolgproces op is van de moet dan een template email template klaar gezet worden dus die moeten gewoon standaard zijn van op deze manier deze manier gaan we communiceren klanten dat ze Er wordt vanuit de Microsoft rdp vulnerability uitgeven te kijken welke die van die kunnen geven dit gaat worden dan gaan we zullen het merken Ja zal je wel een kus een tekstje Help je me toevoegen waarschijnlijk Ja dat zeg je dan ja en dan maar dat de vorige keer was moesten we alle Klanten gaan nabellen van Jo is het ok\u00e9 dat we het gaan doen"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:32:31.835639Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:32:11.678990Z"
+  },
+  "name": "7598488764133014977",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.93296367,
+            "transcript": "sturen en ook in die mail zetten van ja we gaan dit doen we gaan doen maar dan duurt het niet mee eens druk dan op telefoon op en dan kan dat dus niet gekoppeld aan ons systeem Kan dat dan op zijn van Wanneer wil je dan wel gedaan hebben dat ook kiezen en dat dat ook gewoon automatisch meegenomen want ik zat al te denken aan een soort van klantenportaal gehangen kan worden op gewoon in de mail zelf zelf misschien klantenportaal ok\u00e9 dat is ja dan hebben we eigenlijk wel de plotselinge beter denk ik wel afgevangen makkelijk zo makkelijk moet eigenlijk zijn Het is nog veel werk ja zeker zeker als de complexe systemen complex gratis Het is echt niet zo heel veel denk ik dan met studie schakelen tussen al die steentjes Ja dat denk ik dan maar het is belangrijk"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:33:39.493147Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:33:16.742434Z"
+  },
+  "name": "7824393160882721361",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9362728,
+            "transcript": "technisch aspect van Depeche mezelf gedacht wordt me echt gewoon wat wat zijn de plannen van de maand precies dat zijn de meeste handelingen die ik zelf ook zien van een klant en stelsel page Fault 
+dan wil je dus eigenlijk wat er nu gebeurt wordt aangemaakt nog even bellen met om het handmatig moeten door naar de volgende ronde nieuwe instellingen reageert de klant niet en dan zit je de week achteraan en dat kost heel veel Je moet gewoon een soort van over de schutting gooien van jou het soort van ja is op het oud is het Ja het is nu fout gaan maar we gaan het nu opnieuw nieuwe schema voorkomen nog ja ja en dat is dan Windows allemaal want 
+Linux Ja zo'n plotselinge page word op hele andere manier dus zeg maar"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:34:49.290560Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:34:22.785203Z"
+  },
+  "name": "4265568487483636737",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.93850636,
+            "transcript": "gepoetst denk ik dan of ja ik weet het gewoon enkele natuurlijk nog meegenomen bewijs van denk ik maar op met die distributie die dan op dat moment geld voor het centrum is heeft er van Infinity wordt er een cavia pakket update upgrade heb ik hem kan natuurlijk spelletjes installeren updaten dus dat zou dan wel optie moeten kunnen zijn dat kan eigenlijk niet zo heel groot probleem met die dingen Ja juist base Ja precies en dan die informatie daar uitvinden minder 2 minuten zetten dat je automatisch Ik wil ja gewoon echt wat heeft Microsoft een soort van een A4 waar ik tegenaan kan praten of is dat heel erg"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:35:47.364925Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:35:29.032809Z"
+  },
+  "name": "4717120009724401701",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.92418414,
+            "transcript": "want dat was wat ik ervan begrepen was wat ik ervan begreep was dat ze sccm best wel moeilijk truites lopen daar heel veel dingetjes ansible niet tegen sihr maanden kunnen praten zeg maar er staat dus een soort van staat achter een manier van denken heeft ze jou niet zeg maar weet je het weet je daar op dit moment krijgen Ik zag te zeggen wat problemen met je willen zijn maar weet jij hoe dat geregeld Ik weet het voor je merkt de interne bij internet staat in die dan weer sccm aanroept Ja en dat wil ik dus helemaal eruit abstraheren vervagen eigenlijk"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:36:56.414301Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:36:33.895656Z"
+  },
+  "name": "3227802854570751777",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.89404327,
+            "transcript": "in ieder geval is dat dat ze dat gewoon helemaal los moet zeggen en je denkt dat dat mogelijk is is het niet zo iets wat het zou kunnen we zullen vast wel wat uitdagingen zijn maar jullie zelf schrijven over bedrijf zelf afvoeren dat je dat inderdaad gewoon zelf moet moet schrijven maar doen voor mezelf Ja nee dan heb ik ja dat je nu uit Hoeveel is 30 in de toekomst uit laten zien ja"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8550074,
+            "transcript": "nog steeds wel op soort van pakketten die we hebben en dat staat dat ding niet heel veel veranderd worden ze gewoon variabel blijven maar dan moet ik dus gaan afwegen met de service"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:37:59.789737Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:37:39.733160Z"
+  },
+  "name": "3080162041280105347",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.92607677,
+            "transcript": "wat de klant precies op dit moment een beetje hond is op dit moment om af te nemen denk ik dan niet gewoon sowieso maar 20 keer per jaar moet wat meer over nagedacht worden de toekomst wel iets nieuws toevoegen dan moet dat geen probleem zijn bewijzen volgende Facebook aanpassen heb je toch een rolletje erbij of zo kunnen zetten ja ja nee duidelijk"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9172718,
+            "transcript": " nee dat ik Ik zit even ja ik zit even te denken wat vragen krijg je nog meer dat ik denk dat Diana de volgende vragen zijn eigenlijk voor de service spelletjes die ik eigenlijk heb omdat ik was echt want als ik jou Moskou lijstje mag vragen Zeg dan iets geks van Wat moet het systeem minimaal kunnen waarheid moeten bestaan heb je dan misschien idee\u00ebn van"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8183353,
+            "transcript": " Ja dat is goed Bro uit te blauw of het niet zo op Ja ik vind het ook heel lastig om moet daarmee moet 4 keer mee moet zijn zeg maar"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:39:03.085771Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:38:45.717877Z"
+  },
+  "name": "3418148933902850529",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9330907,
+            "transcript": "van dit project afmaken Heb toch de service manager Dan denk ik dat combinatie van van meerdere afdelingen want hij wou eigenlijk net al zei teveel nog alleen vanuit de techniek gekeken Het is belangrijk dat ook goede aan processen aansluiten hierop want daar zit gewoon de bottleneck op dit moment Naar mijn mening zou je uiteindelijk zou het zo moeten zijn dat er een engineer slag gaat en binnen uur zeg maar de Passion 
+heeft het uiteraard moeten eerst ook moeten wel akkoord zijn van een Peugeot de rechter van die andere van de klant zeg maar nou ja om dat te gaan doen Zo ja eindelijk veel meer moeten zijn dan die mensen"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:40:11.461971Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:39:51.834576Z"
+  },
+  "name": "4591487792683997541",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9357803,
+            "transcript": "een uur moeten duren om omdat je wil niet meer met de hand zeg maar die duidelijk dat is wel een goede voor mij om melk mee te nemen van dat het gewoon ja een modulair moet zijn het moet Kort en krachtig vervelen systeem ons voor jou de de ijzeren omvatten als het ware van de klant niet duidelijk Ik ik heb weer wat meer handvaten om verder mee te gaan Ik moet gewoon even interview denk ik dat het grootste gedeelte van van onderzoek van jou Ja hoe ze willen geupdate worden eigenlijk Want een voorbeeld te appen mee sql update te Ja hoe is dat drastisch anders dan bijvoorbeeld herken deze drie dingen dan ben niet Het is gewoon een"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:41:15.752663Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:40:57.855029Z"
+  },
+  "name": "1921149673119870174",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.907786,
+            "transcript": "Ja die fiets maar dan is het op een Windows bak is dat nog steeds gewoon update installeren er overheen gooien ja situaties Maakt eigenlijk het spelletje niet echt veel verschil voor voor techniek technisch zeg maar want daar dacht dat dacht ik namelijk wel soms zijn die er met mij sql geklust en dan moet je die er dan brengen dan die andere weer terugbrengen Ja die moeten ook op een speciale manier Services ofzo"      
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8661958,
+            "transcript": "Ik weet niet of je dat wil hoor Ja maar van dat zijn applicatie zijn applicatie Stuur niet het is gewoon in zijn geheel zou die dan"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:42:27.119245Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:42:04.340777Z"
+  },
+  "name": "3325962123576673274",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9334613,
+            "transcript": "applicatie is dan wat degene was die als het ware en hoe die in zijn geheel met elkaar verbonden staat precies wat ik eigenlijk gewoon unieke packages die die out-of-band geupdate worden in zit maar als ik dat alleen als ik wil gaan nieuwbouw Ik zat eerst te denken heb ik een soort van een paar rollen van Windows and Linux en maar nu krijg ik voor mijn gevoel per applicatie Rolde bij zeg maar handig misschien kunnen maken eigenlijk al terug komt ook zo zeggen van als je dan Wil je de steek bereiken alles is ook weer de oude bent"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8342491,
+            "transcript": "maar andere kant zal er wel eens zwaar op kunnen komen denk ik van ja"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:43:28.394151Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:43:10.392895Z"
+  },
+  "name": "5656952869566700980",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.82080764,
+            "transcript": "maar dat installeert worden"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.7578181,
+            "transcript": " Zou je echt Ja gaat wel een beetje tegen maar het kan natuurlijk"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.86295027,
+            "transcript": " ja ik heb voor mij knijpen veel variabele zeg maar je wilt wel hebben tenminste Ja want ik wil eerst even aan het aankleden hetzelfde zijn een wekker installeren en dan hou je anders krijg je allemaal voor elke inderdaad Welke Pikachu installeren en dan stel je voor dat"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:44:37.699771Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:44:16.362071Z"
+  },
+  "name": "3771040441429235195",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9216119,
+            "transcript": "applicatie Ja dat kan ook nog steeds inderdaad maakt niet uit wat is van Nee het is ja in plaats van dat je alle package update update specifiek of ja en als je dan 3-pack het is geweest zeker weet 
+die achter mekaar had installeren en dan voel je drie keer uit of je gister met de argumenten van De Drie Biggetjes mee in een keer kan dat zo zo simpel mogelijk mogelijk duidelijk dan dan heb ik denk ik wel"
+          }
+        ]
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": 0.90473133,
+            "transcript": "alle vragen denk wel een beetje ja misschien dat ik nog nog een keer aan klopt maar denk het niet hoor ja dan heb ik het wel ja ik heb niet zoveel vragen ik op dit moment even snel verzinnen van je 
+wilt vragen maar ja dus ik weet niet hoe jij het invult"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:45:41.430995Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:45:22.516963Z"
+  },
+  "name": "7540829744671837717",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.9257729,
+            "transcript": "moeite voor jou wilde uitzien simpel mogelijk eigenlijk voor de eerste ook en alles in \u00e9\u00e9n keer erdoor goed kan worden vanuit En ja in plaats van zoveel rond bellen navragen Ja ja informatie ophaaldata van deze Windows misschien eens moeten zijn toch best voor mij ook gewoon voor de standaard installatie altijd alles kan ophalen van de systeem dan dat we nu hebben is ook veel makkelijker want we hebben nu is omdat in anderhalf uur gaat proberen te installeren en als Ja wil ik dat ook altijd voor anderhalf uur zeg maar naar opa hebben laat staan Dat is een goede vraag Naar mijn mening moet ik ook automatiseren dus dat gaat lopen dat je dat ook dat zien bedoel je dat misschien ook ook"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:46:49.638038Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:46:28.454048Z"
+  },
+  "name": "3745176642280633997",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.93050224,
+            "transcript": "alles geregeld worden ik gelijk meenemen Dat was ook gelijk voor die tijdstip ingeregeld staat precies dat is wel een hele en misschien wil je het zo maken en dat is een flexibele hoor dat zeg maar 
+staat 2 uur voor van van \u00e9\u00e9n tot drie nachts en een half uurtje klaar eigenlijk ook zeggen van het maar af want anders sta je geen uren te wachten tot er wel een probleem is een probleem om ergens een 12"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+{
+  "done": true,
+  "metadata": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeMetadata",
+    "lastUpdateTime": "2019-09-16T22:47:44.915788Z",
+    "progressPercent": 100,
+    "startTime": "2019-09-16T22:47:33.882731Z"
+  },
+  "name": "6709259981000550523",
+  "response": {
+    "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+    "results": [
+      {
+        "alternatives": [
+          {
+            "confidence": 0.8452936,
+            "transcript": "voortaan niet uitgevoerd Ja ja ik had deze tot half uurtje gehoord dus ik denk dat we eruit gekocht dus ja we weten het eruit Ja ik had hem tot 3 uur want ik kan maar we gaan"
+          }
+        ]
+      }
+    ]
+  }
+}

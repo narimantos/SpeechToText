@@ -17,7 +17,7 @@ Foreach-Object {
     Start-Sleep -s 60
     $transcript = gcloud ml speech operations describe $_.name
     Write-Output( $transcript | ConvertFrom-Json | ForEach-Object {
-      $transcript >> "$path\out%03d.txt"
+      $transcript >> $path\outout.txt
     })
     $_.name})
   $int++
